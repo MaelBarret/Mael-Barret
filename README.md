@@ -1,6 +1,6 @@
 # Mael-Barret
 
-Here are some examples of QGIS projects I worked on as a géomaticien,in a design office specialized in hydrobiology.
+Here are some examples of QGIS projects I worked on as a géomaticien, in a design office specialized in hydrobiology.
 
 ![Alt text](maps/Bilan_des_travaux_-_le_Long.jpg)
 ![Alt text](maps/Etat_Biologique.jpg)
